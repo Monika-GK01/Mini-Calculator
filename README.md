@@ -1,6 +1,8 @@
 🧮 Java Calculator – Elegant Swing UI
 A sleek, fully functional calculator built with Java Swing for a refined, desktop-friendly experience. Designed with a soft pink & gray theme, it balances style and precision while delivering all the features of a classic calculator—plus a few extra perks.
 
+![Calculator UI](src/screenshot.png)
+
 🚀 Features
 Core Arithmetic – Addition, subtraction, multiplication, division
 
