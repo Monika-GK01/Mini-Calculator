@@ -27,12 +27,21 @@ AWT (java.awt) – Colors, fonts, and event handling
 📂 Folder Structure
 
 Calculator/
+
 │── src/
-│   ├── App.java         # Entry point
-│   ├── Calculator.java  # Main calculator logic & UI
-│── bin/                 # Compiled class files
-│── lib/                 # (Optional) External libraries
-│── README.md            # Documentation
+
+
+│   ├── App.java   
+
+│   ├── Calculator.java 
+
+│── bin/ 
+
+│── lib/  
+
+│── README.md          
+
+
 
 📜 Usage Guide
 Numbers (0–9) → Input digits
